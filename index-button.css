@@ -1,9 +1,9 @@
-a.btn--orange {
+a.bluebutton {
   color: #2ca9e1;
   background-color: #eb6100;
   border-bottom: 5px solid #b84c00;
 }
-a.btn--orange:hover {
+a.bluebutton:hover {
   margin-top: 3px;
   color: #2ca9e1;
   background: #f56500;
