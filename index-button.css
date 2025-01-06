@@ -9,7 +9,7 @@ a.bluebutton:hover {
   background: #f56500;
   border-bottom: 2px solid #19448e;
 }
-a.btn--shadow {
+a.blueshadow {
   -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
   box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
 }
